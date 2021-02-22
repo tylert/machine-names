@@ -2,7 +2,7 @@ sun          0    sun_n
 mercury      0    mercury_n
 venus        0    venus_n
 earth        0    earth_n
-moon         1    earth_i
+luna         1    earth_i
 mars         0    mars_n
 phobos       1    mars_i
 deimos       2    mars_ii
